@@ -6,7 +6,7 @@
 | --------------- | ------------------------------------------------------- |
 | :label: Tecnologias | PHP 8.1.5                                  |
 | :rocket: URL do projeto | https://github.com/felipe-ssantos/activities-in-php          |
-| 📌 Status        | Em desenvolvimento...                                               |
+| 📌 Status        | Concluído.                                               |
 
 ---
 
