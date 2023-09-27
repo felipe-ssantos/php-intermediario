@@ -4,4 +4,4 @@
 	<title><?php echo $titulo_site; ?></title>
 </head>
 <body>
-Aqui eh meu header
+Aqui é meu header
